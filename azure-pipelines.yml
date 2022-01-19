@@ -11,7 +11,7 @@ pool:
 
 variables:
   webAppName: 'mojaapkanaazura'
-  serviceConnection: 'trysomeorange-try load testing-e4a95064-c776-4a27-bc90-e46e16b0566c'
+  serviceConnection: '451718d5-f8a0-4ffa-8d41-2e5b1c1f9800'
   azureSubscriptionId: 'e4a95064-c776-4a27-bc90-e46e16b0566c'
   loadTestResource: 'mojaapkanaazuraLoadTest'
   loadTestResourceGroup: 'mojaapkanaazuranortheurope-rg'
